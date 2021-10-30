@@ -2,6 +2,7 @@
 If most stongy skill I have 
 # (1) Thrid party Build RESTful API for social network login:
 One day, Our clients can't log in to our system. I Jump into the system to diagnose the issue right away.
+Found out the root cause API from third party have updated.
 
 # (2) MSSQL, MYSQL, Postgresql:
 I was a business intelligence engineer when i worked at Newegg.com. 
