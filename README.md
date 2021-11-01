@@ -1,8 +1,12 @@
 
  
-# (1) Thrid party Build RESTful API for social network login:
-One day, Our clients can't log in to our system. I Jump into the system to diagnose the issue right away.
-Found out the root cause was that API from third party have updated.
+# (1) Building RESTful API for website and mobile app:
+ 
+ ![This is an image](https://www.linkedin.com/in/viviankaun/detail/treasury/position:1071142133/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAAA-jEAYBuAl47wdwNpwzSED6dxAJwMSvirU%2C1551419987582)&section=position%3A1071142133&treasuryCount=1)
+ 
+ 
+ 
+
 
 # (2) MSSQL, MYSQL, Postgresql:
 I was a business intelligence engineer when i worked at Newegg.com. 
