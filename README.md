@@ -17,6 +17,8 @@ I login in complier my code Centos-Server
 
 
 
-I am also interested in computer vision, here is my research. I used Matlab to do my project at the time.
+I am also interested in computer vision. Here is my research. I used Matlab to do my project when I was in graduate School.
+![This is an image](https://media-exp1.licdn.com/dms/image/C512DAQGhCU_CbwBtQw/profile-treasury-image-shrink_800_800/0/1601681334598?e=1635825600&v=beta&t=ze8KQUYrbqrYkqT9-4c_yJiIssZdG5EHkzurZmTEaFg)
+
 
 
