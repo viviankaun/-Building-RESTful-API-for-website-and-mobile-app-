@@ -2,7 +2,7 @@
  
 # (1) Building RESTful API for website and mobile app:
  
- ![This is an image](https://www.linkedin.com/in/viviankaun/detail/treasury/position:1071142133/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAAA-jEAYBuAl47wdwNpwzSED6dxAJwMSvirU%2C1551419987582)&section=position%3A1071142133&treasuryCount=1)
+ ![This is an image](https://media-exp1.licdn.com/dms/image/C512DAQF6mrrkzqm-oA/profile-treasury-image-shrink_1920_1920/0/1597332501550?e=1635825600&v=beta&t=aYyw3AefdeIwXemgKEc4nXOxxGI0jzD26xp8vy0aOlk)
  
  
  
