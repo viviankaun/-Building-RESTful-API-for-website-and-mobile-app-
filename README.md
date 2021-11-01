@@ -6,8 +6,7 @@ Found out the root cause was that API from third party have updated.
 
 # (2) MSSQL, MYSQL, Postgresql:
 I was a business intelligence engineer when i worked at Newegg.com. 
-We use Temporary tables to help to produce 
-I don't have my complex ＳＱＬ command  with me right now. 
+At time, I wrote Store Procedue and using SSIS to execute ETL process. 
 
 Here is my recnetly minor porject i have done. 
 https://github.com/viviankaun/Postgres
