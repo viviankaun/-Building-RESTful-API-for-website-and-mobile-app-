@@ -7,7 +7,7 @@ Found out the root cause was that API from third party have updated.
 # (2) MSSQL, MYSQL, Postgresql:
 I was a business intelligence engineer when i worked at Newegg.com. 
 At the timee, I write Stored Procedures and use SSIS to execute the ETL process.
- ![This is an image](./img/Redshift001.jpeg)
+ ![This is an image](https://github.com/viviankaun/Projects/blob/main/img/BI001.jpeg)
 Here is my recnetly minor porject i have done. 
 https://github.com/viviankaun/Postgres
 
